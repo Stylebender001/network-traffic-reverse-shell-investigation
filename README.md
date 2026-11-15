@@ -62,9 +62,6 @@ The investigation includes Wireshark screenshots documenting:
 
 The conclusions are based on the supplied packet capture. The available evidence does not independently establish the operator's identity, initial access method, data exfiltration, persistence, or compromise of additional systems.
 
-## Report
-
-The detailed investigation report is available in the `report/` directory.
 
 ## Disclaimer
 
